@@ -1,0 +1,6 @@
+Explosion de feu
+Piège simple (niveau 5-10, menace dangereuse)
+Le temple de Pyremius, un dieu du feu, est en proie à des voleurs qui cherchent à dérober les opales de feu rassemblées par les prêtres en guise d'offrandes à leur dieu. Une mosaïque sur le sol de l’entrée du sanctuaire intérieur déclenche une punition de flammes sur les intrus.
+Déclencheur. Quiconque marche sur la mosaïque provoque une explosion de flammes. Les porteurs du symbole sacré de Pyremius ne déclenchent pas ce piège.
+Effet. Un cône de feu de 4,50 mètres jaillit, recouvrant la plaque de pression et toute la zone autour d'elle. Chaque créature dans le cône doit réussir un jet de sauvegarde de Dextérité DD 15 ou prendre 24 (7d6) dégâts de feu en cas d’échec, ou la moitié de ces dégâts en cas de réussite.
+Désactivation. Un jet de Sagesse (Perception) DD 15 révèle la présence de cendres et de brûlures dans la zone couverte par le cône de feu généré par le piège. Un jet d’Intelligence (Religion) DD 15 permet à une créature de détruire le piège en détruisant une rune clé dans le dessin de la mosaïque. Mais un échec à ce jet déclenche le piège. Un sort de dissipation de la magie (DD 15) lancé avec succès sur les runes détruit le piège.
