@@ -1,0 +1,54 @@
+TARASQUE
+[ Tarrasque ]
+Créature monstrueuse (titan) de taille Gig, sans alignement
+Classe d'armure 25 (armure naturelle)
+Points de vie 676 (33d20 + 330)
+Vitesse 12 m
+FOR
+30 (+10)  DEX
+11 (+0)  CON
+30 (+10)  INT
+3 (-4)  SAG
+11 (+0)  CHA
+11 (+0)
+Jets de sauvegarde Int +5, Sag +9, Cha +9
+Immunités aux dégâts feu, poison ; contondant, perforant et tranchant d'attaques non magiques
+Immunités aux conditions charmé, effrayé, empoisonné, paralysé
+Sens vision aveugle à 36 m, Perception passive 10
+Langues -
+Puissance 30 (155000 PX)
+Résistance légendaire (3/jour). Si la tarasque échoue à un jet de sauvegarde, elle peut choisir à la place de le réussir.
+
+Résistance à la magie. La tarasque a l'avantage aux jets de sauvegarde contre les sorts et les effets magiques.
+
+Carapace réfléchissante. À chaque fois que la tarasque est ciblée par un sort de projectile magique, un sort dont la zone d'effet est une ligne, ou un sort requérant un jet d'attaque à distance, lancez un d6. De 1 à 5, la tarasque n'est pas affectée. Sur un 6, la tarasque n'est pas affectée, et l'effet est renvoyé vers le lanceur de sorts comme s'il provenait de la tarasque, le lanceur devenant donc la cible.
+
+Monstre de siège. La tarasque inflige le double des dégâts aux objets et structures qu'elle attaque.
+
+ACTIONS
+Attaques multiples. La tarasque peut utiliser sa Présence effrayante. Elle réalise ensuite cinq attaques : une avec sa morsure, deux avec ses griffes, une avec ses cornes, et une avec sa queue. Elle peut utiliser Engloutissement à la place de sa morsure.
+
+Cornes. Attaque au corps à corps avec une arme : +19 au toucher, allonge 3 m, une cible. Touché : 32 (4d10 + 10) dégâts perforants.
+
+Griffes. Attaque au corps à corps avec une arme : +19 au toucher, allonge 4,50 m, une cible. Touché : 28 (4d8 + 10) dégâts tranchants.
+
+Morsure. Attaque au corps à corps avec une arme : +19 au toucher, allonge 3 m, une cible. Touché : 36 (4d12 + 10) dégâts perforants. Si la cible est une créature, elle est agrippée (évasion DD 20). Jusqu'à ce que la lutte cesse, la créature est entravée, et la tarasque ne peut pas mordre une autre cible.
+
+Queue. Attaque au corps à corps avec une arme : +19 au toucher, allonge 6 m, une cible. Touché : 24 (4d6 + 10) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 20 ou être jetée à terre.
+
+Présence effrayante. Chaque créature choisie par la tarasque, se trouvant à 36 mètres d'elle et consciente de sa présence, doit réussir un jet de sauvegarde de Sagesse DD 17 ou être effrayée pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours, avec un désavantage si la tarasque est dans la ligne de vue, mettant fin à l'effet qu'elle subit en cas de succès. Si le jet de sauvegarde d'une créature est réussi ou que l'effet qu'elle subit prend fin, celle-ci devient immunisée à la Présence effrayante de la tarasque pendant les prochaines 24 heures.
+
+Engloutissement. La tarasque effectue une attaque de morsure contre une créature de taille G ou inférieure qu'elle agrippe. Si l'attaque réussit, la créature subit les dégâts de la morsure et est avalée, ce qui met fin à l'agrippement. Une fois avalée, la créature est aveuglée et entravée, bénéficie d'un abri total contre les attaques et effets émanant de l'extérieur de la tarasque, et subit 56 (16d6) dégâts d'acide au début de chaque tour de la tarasque. Si la tarasque subit 60 points de dégâts ou plus en un seul tour de la part d'une créature avalée, la tarasque doit réussir un jet de sauvegarde de Constitution DD 20 à la fin de ce tour ou régurgiter toutes les créatures qu'elle a avalées, qui se retrouveront alors à terre, à 3 mètres ou moins de la tarasque. Si la tarasque meurt, une créature avalée n'est plus entravée et peut s'échapper du cadavre en utilisant 9 mètres de mouvement pour se retrouver à l'extérieur et à terre.
+
+ACTIONS LÉGENDAIRES
+La tarasque peut exécuter 3 actions légendaires, en choisissant parmi les options suivantes. Seulement une action légendaire peut être utilisée à la fois, et seulement à la fin du tour d'une autre créature. La tarasque récupère les actions légendaires dépensées au début de son tour.
+
+Attaque. La tarasque réalise une attaque avec ses griffes ou avec sa queue.
+
+Déplacement. La tarasque se déplace de la moitié de sa vitesse.
+
+Mastication (coûte 2 actions). La tarasque réalise une attaque de morsure ou utilise Engloutissement.
+
+La légendaire tarasque est probablement le monstre le plus redouté du plan matériel. Il est largement admis qu'une seule de ces créatures existe, même si personne ne peut prédire où et quand elle va frapper. Bipède et couverte d'écailles, la tarasque mesure quinze mètres de haut et vingt mètres de long, et pèse plusieurs centaines de tonnes. Elle se tient tel un oiseau de proie, penchée en avant et utilisant sa queue puissante pour maintenir son équilibre.
+Monster Manual (SRD) D&D 5 › Monstres
+

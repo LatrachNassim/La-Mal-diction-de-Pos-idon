@@ -1,0 +1,46 @@
+YUAN-TI ANNONCIATEUR DE CAUCHEMAR
+[ Yuan-ti Nightmare Speaker ]
+Créature monstrueuse (métamorphe, yuan-ti) de taille M, neutre mauvais
+Classe d'armure 14 (armure naturelle)
+Points de vie 71 (13d8 + 13)
+Vitesse 9 m
+FOR
+16 (+3)  DEX
+14 (+2)  CON
+13 (+1)  INT
+14 (+2)  SAG
+12 (+1)  CHA
+16 (+3)
+Jets de sauvegarde Sag +3, Cha +5
+Compétences Discrétion +4, Tromperie +5
+Immunités aux dégâts poison
+Immunités aux conditions empoisonné
+Sens vision aveugle à 36 m (traverse les ténèbres magiques), Perception passive 11
+Langues abyssal, commun, draconique
+Puissance 4 (1100 PX)
+Métamorphe. Le yuan-ti peut utiliser son action pour se métamorphoser en un serpent taille M, ou retourner à sa véritable forme (un yuan-ti). Ses statistiques sont les mêmes quelle que soit sa forme. L'équipement qu'il porte et transporte ne se transforme pas avec lui. Il ne change pas de forme s'il meurt.
+
+Crocs de Mort (2/jour). La première fois que le yuan-ti touche avec une attaque au corps à corps lors de son tour, il peut infliger 16 (3d10) dégâts nécrotiques supplémentaires à la cible.
+
+Sorts innés (forme de yuan-ti uniquement). La caractéristique de Sorts innés du yuan-ti est le Charisme (sauvegarde contre ses sorts DD 13). Le yuan-ti peut lancer de manière innée les sorts suivants, sans avoir besoin des composantes matérielles :
+
+À volonté : amitié avec les animaux (serpents uniquement)
+3/jour : suggestion
+Résistance à la magie. Le yuan-ti a l'avantage aux jets de sauvegarde contre les sorts et les effets magiques.
+
+Sorts (forme de yuan-ti uniquement). Le yuan-ti est un lanceur de sorts de niveau 6. Sa caractéristique d'incantation est le Charisme (sauvegarde contre ses sorts DD 13, +5 au toucher pour les attaques avec un sort). Il récupère les emplacements de sorts qu'il a dépensés lorsqu'il termine un repos court ou long. Il connait les sorts de sorcier suivants :
+
+Sorts mineurs (à volonté) : contact glacial, décharge occulte (portée 90 m, bonus de +3 à chaque jet de dégâts), main de mage, message, vaporisation de poison, prestidigitation
+Niveau 1 à 3 (2 emplacements de niveau 3) : tentacules d'Hadar, ténèbres, peur, maléfice, immobilisation de personne, faim inextinguible de Hadar, éclair de sorcière
+ACTIONS
+Attaques multiples (forme de yuan-ti uniquement). Le yuan-ti effectue une attaque de constriction et une attaque avec le cimeterre.
+
+Constriction. Attaque au corps à corps avec une arme : +5 au toucher, allonge 3 mètres, une cible. Touché : 10 (2d6 + 3) dégâts contondants, et la cible est agrippée (évasion DD 14) si c'est une créature de taille G ou inférieure. Jusqu'à ce qu'elle ne soit plus agrippée, la cible est entravée, et le yuan-ti ne peut plus effectuer de constriction contre une autre cible.
+
+Cimeterre (forme de yuan-ti uniquement). Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants.
+
+Invocation de cauchemar (Recharge après un repos court ou long). Le yuan-ti se faufile parmi les cauchemars d'une créature qu'il peut voir et se trouvant à 18 mètres de lui maximum, et crée une manifestation immobile, illusoire, visible uniquement de la créature, des peurs les plus profondes de cette créature. La cible doit effectuer un jet de sauvegarde d'Intelligence DD 13. En cas d'échec au jet, la cible subit 11 (2d10) dégâts psychiques et est effrayée par la manifestation, la prenant pour quelque chose de réel. La yuan-ti doit se concentrer pour maintenir l'illusion en place (comme s'il se concentrait sur un sort), qui perdure 1 minute maximum et ne peut pas être blessée. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours, mettant un terme à l'illusion en cas de réussite, ou subissant 11 (2d10) dégâts psychiques en cas d'échec.
+
+Volo´s Guide to Monsters D&D 5 › Monstres
+
+image
