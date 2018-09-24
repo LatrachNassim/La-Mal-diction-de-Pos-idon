@@ -1,4 +1,4 @@
-CROCODILE GÉANT
+CROCODILE GÉANT du futur
 [ Giant Crocodile ]
 Bête de taille TG, sans alignement
 Classe d'armure 14 (armure naturelle)
