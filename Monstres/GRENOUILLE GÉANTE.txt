@@ -1,0 +1,28 @@
+
+GRENOUILLE GÉANTE
+[ Giant Frog ]
+Bête de taille M, sans alignement
+Classe d'armure 11
+Points de vie 18 (4d8)
+Vitesse 9 m, nage 9 m
+FOR
+12 (+1)  DEX
+13 (+1)  CON
+11 (+0)  INT
+2 (-4)  SAG
+10 (+0)  CHA
+3 (-4)
+Compétences Discrétion +3, Perception +2
+Sens vision dans le noir à 9 m, Perception passive 12
+Langues -
+Puissance 1/4 (50 PX)
+Amphibien. La grenouille peut respirer aussi bien dans l'air que sous l'eau.
+
+Saut arrêté. La grenouille peut sauter en longueur jusqu'à 6 mètres ou en hauteur jusqu'à 3 mètres, avec ou sans élan.
+
+ACTIONS
+Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants, et la cible est agrippée (DD 11 pour s'échapper). Jusqu'à ce que la lutte se termine, la cible est entravée, et la grenouille ne peut pas mordre une autre cible.
+
+Engloutissement. La grenouille réalise une attaque de morsure contre une cible de taille P ou inférieure avec qui elle est en lutte. Si l'attaque est réussie, la cible est avalée, et la lutte se termine. La créature avalée est aveuglée est entravée, elle bénéficie d'un abri total contre les attaques ou autres effets provenant de l'extérieur de la grenouille, et subit 5 (2d4) dégâts d'acide au début de chaque tour de jeu de la grenouille. La grenouille ne peut avaler qu'une cible à la fois. Si la grenouille meurt, la créature avalée n'est plus entravée et peut sortir du cadavre en utilisant 1,50 mètre de mouvement, pour alors en émerger et se retrouver à terre.
+
+Monster Manual (SRD) D&D 5 › Monstres
